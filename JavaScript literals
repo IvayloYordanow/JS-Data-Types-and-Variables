@@ -1,0 +1,11 @@
+Problem 1
+
+var nullExample = null;
+var boolExampleTrue = true;
+var boolExampleFalse = false;
+var numericExample = 1;
+var objectExample = {a: "top", b: "up", c: "object"};
+var arrExample = ["top","up", "object"];
+var stringExample = "My name is";
+var regExpresionExample = new RegExp('xy+z', 'i');
+var intFloatExample = 1.5;
