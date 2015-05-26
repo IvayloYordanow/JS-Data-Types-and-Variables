@@ -1,0 +1,19 @@
+var nullExample = null;
+var boolExampleTrue = true;
+var boolExampleFalse = false;
+var numericExample = 1;
+var objectExample = {a: "top", b: "up", c: "object"};
+var arrExample = ["top","up", "object"];
+var stringExample = "My name is";
+var regExpresionExample = new RegExp('xy+z', 'i');
+var intFloatExample = 1.5;
+
+console.log(typeof nullExample);
+console.log(typeof boolExampleTrue);
+console.log(typeof boolExampleFalse);
+console.log(typeof numericExample);
+console.log(typeof objectExample);
+console.log(typeof arrExample);
+console.log(typeof stringExample);
+console.log(typeof regExpresionExample);
+console.log(typeof intFloatExample);
